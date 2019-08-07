@@ -1,0 +1,9 @@
+E:\Project\C#\Musteria\Musteria\bin\Debug\Musteria.exe.config
+E:\Project\C#\Musteria\Musteria\bin\Debug\Musteria.exe
+E:\Project\C#\Musteria\Musteria\bin\Debug\Musteria.pdb
+E:\Project\C#\Musteria\Musteria\obj\Debug\Musteria.csproj.CoreCompileInputs.cache
+E:\Project\C#\Musteria\Musteria\obj\Debug\Musteria.exe
+E:\Project\C#\Musteria\Musteria\obj\Debug\Musteria.pdb
+E:\Project\C#\Musteria\Musteria\bin\Debug\Colorful.Console.dll
+E:\Project\C#\Musteria\Musteria\obj\Debug\Musteria.csproj.CopyComplete
+E:\Project\C#\Musteria\Musteria\obj\Debug\Musteria.csprojAssemblyReference.cache
